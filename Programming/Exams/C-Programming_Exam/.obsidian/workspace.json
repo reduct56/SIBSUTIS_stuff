@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "185d69e72a48ebb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0ea0a85bf296c1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c28cfaf02380719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория/Вопрос 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вопрос 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07df5d3c72c11dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bc4884f7edbc74d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d11547a1025fe4fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "c0e9736c8975cc63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "97f0e1ea5b87dc65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20ae65ca4755fa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "36f23dcc61ab840f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8479ae7e0a304196",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Теория/Вопрос 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Вопрос 1"
+            }
+          },
+          {
+            "id": "d4edf7e1f19ca044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Теория/Вопрос 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Вопрос 1"
+            }
+          },
+          {
+            "id": "5096f5cea76f47ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9cbdc241c59a0233",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Теория/Вопрос 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Вопрос 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "9c28cfaf02380719",
+  "lastOpenFiles": [
+    "Теория/Вопрос 1.md",
+    "Новая папка",
+    "Теория/Вопрос 2.md",
+    "Pasted image 20241229203237.png",
+    "Pasted image 20241228220138.png",
+    "Без названия.md",
+    "Добро пожаловать.md",
+    "Теория"
+  ]
+}
