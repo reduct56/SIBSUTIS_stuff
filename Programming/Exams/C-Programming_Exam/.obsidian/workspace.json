@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория/Вопрос 8.md",
+                "file": "Теория/Вопрос 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопрос 8"
+              "title": "Вопрос 9"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Теория/Вопрос 7.md",
+                "file": "Теория/Вопрос 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Вопрос 7"
+              "title": "Обратные ссылки для Вопрос 9"
             }
           },
           {
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,12 +163,16 @@
   },
   "active": "9c28cfaf02380719",
   "lastOpenFiles": [
-    "Теория/Вопрос 7.md",
     "Теория/Вопрос 8.md",
-    "Теория/Вопрос 3.md",
+    "Теория/Вопрос 9.md",
+    "Pasted image 20250105142922.png",
+    "Pasted image 20250104194359.png",
+    "Pasted image 20250104194017.png",
     "Теория/Вопрос 4.md",
-    "Теория/Вопрос 5.md",
     "Теория/Вопрос 6.md",
+    "Теория/Вопрос 5.md",
+    "Теория/Вопрос 7.md",
+    "Теория/Вопрос 3.md",
     "Pasted image 20250102155626.png",
     "Pasted image 20250102155619.png",
     "Pasted image 20250102154019.png",
